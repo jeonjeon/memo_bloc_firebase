@@ -1,7 +1,5 @@
 # memo_bloc_firebase
 
-## 취업용 포트폴리오
-
 1. 이름 : MemoBuddy
 2. 설명 : 최소한의 기능만 있는 심플한 메모 앱
 3. defendencies :
